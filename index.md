@@ -9,3 +9,7 @@
 ``` python
 print('hello world!')
 ``` 
+
+- [ ] Do this assignment
+- [ ] Do the next assignment
+- [ ] Get in a group of 4
